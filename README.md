@@ -2,7 +2,7 @@
 
 I am a disciplined, self-motivated, meticulous software developer, especially interested in web programming. I enjoy being part of a team. I am a software developer eager to learn new technologies. I am an amateur pixel artist and I write technical articles.
 
-🌱 I’m currently learning TypeScript and Next.js
+🌱 I’m currently learning TypeScript and GraphQL
 <!--
 **ahmetseha/ahmetseha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
