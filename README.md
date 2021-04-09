@@ -4,7 +4,6 @@
 
 <p align = "center">🌱 I’m currently learning TypeScript and GraphQL </p>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/45859293/114193633-61fb5d80-9957-11eb-8f99-e3e950b66f12.gif"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/45859293/114195245-f9ad7b80-9958-11eb-9ea0-e1e01e76a8b8.gif"></p>
 
-![coding-gif](https://user-images.githubusercontent.com/45859293/114193633-61fb5d80-9957-11eb-8f99-e3e950b66f12.gif)
 
