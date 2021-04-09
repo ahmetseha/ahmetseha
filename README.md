@@ -1,6 +1,6 @@
 <h3 align = "center">Hi there</h3>
 
-<p align = "center">Hey, I'am 24. Frontend Developer, Esenyurt/İstanbul. I am a software developer eager to learn new technologies. </p>
+<p align = "center">Hey, I'am 24. Frontend Developer. I am a software developer eager to learn new technologies. </p>
 
 <p align = "center">I am an amateur pixel artist and I write technical articles</p>
 
