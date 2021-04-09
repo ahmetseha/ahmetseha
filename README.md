@@ -2,7 +2,7 @@
 
 <p align = "center">Hey, I'am 24. Frontend Developer, Esenyurt/İstanbul. I am a software developer eager to learn new technologies. I am an amateur pixel artist and I write technical articles</p>
 
-<p align = "center"> #HTML/CSS, #Jacascript, #React, #Node.js
+<p align = "center"> #HTML, #CSS, #Javascript, #React, #Node.js, Next.js
 
 <p align = "center">🌱 I’m currently learning TypeScript and GraphQL </p>
 
