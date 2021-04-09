@@ -1,6 +1,9 @@
 <h3 align = "center">Hi there</h3>
 
-<p align = "center">Hey, I'am 24. Frontend Developer, Esenyurt/İstanbul</p>
+<p align = "center">Hey, I'am 24. Frontend Developer, Esenyurt/İstanbul, </p>
+
+
+<p align = "center">I am a software developer eager to learn new technologies. I am an amateur pixel artist and I write technical articles</p>
 
 <p align = "center"> #HTML/CSS, #Jacascript, #React, #Node.js
 
