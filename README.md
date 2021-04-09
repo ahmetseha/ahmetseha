@@ -6,6 +6,8 @@ I am a disciplined, self-motivated, meticulous software developer, especially in
 <!--
 **ahmetseha/ahmetseha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![coding-gif1](https://user-images.githubusercontent.com/45859293/114193729-7b9ca500-9957-11eb-85d6-41649c76c9c6.gif)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
