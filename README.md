@@ -2,7 +2,6 @@
 
 <p align = "center">Hey, I'am 24. Frontend Developer. I am a software developer eager to learn new technologies. </p>
 
-<p align = "center">I am an amateur pixel artist and I write technical articles</p>
 
 <p align = "center"> #HTML, #CSS, #Javascript, #React, #Node.js, Next.js
 
