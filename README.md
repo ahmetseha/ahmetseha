@@ -1,6 +1,5 @@
-👋 Merhaba! Ben Ahmet Seha
-Ben React, Next.js ve React Native teknolojilerine odaklanmış bir Frontend Geliştiricisiyim. Kullanıcı dostu ve modern web deneyimleri oluşturmayı seviyorum!
+👋 A passionate frontend developer based in Sakarya, Turkey 🇹🇷.
 
-🚀 Sadece frontend ile sınırlı kalmıyorum; Rust ve Python gibi dillere de ilgi duyuyor, kendimi farklı alanlarda geliştirmeye çalışıyorum.
+I specialize in crafting modern web experiences using React, Next.js, and React Native. My focus is on building scalable, performant, and user-friendly interfaces.
 
-🛠️ Yazılımın yanı sıra, boş zamanlarımda maker projeleri ve kendin yap (DIY) işleriyle uğraşmaktan büyük keyif alırım. Yeni şeyler öğrenmeyi ve üretmeyi seviyorum!
+Beyond frontend, I'm genuinely interested in Rust and Python. I also love diving into maker and DIY projects in my free time.
